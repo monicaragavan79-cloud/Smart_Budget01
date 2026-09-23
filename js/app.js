@@ -1,3 +1,4 @@
+
 /**
  * PocketSmart AI - Main Application Entrypoint
  * Coordinates page lifecycle, landing page interactive elements, and global components.
